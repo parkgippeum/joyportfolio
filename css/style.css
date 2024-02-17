@@ -235,7 +235,7 @@ padding: 145px 0 0 48px;
     left: 50%;
     margin-left:-82.5px;
 }
-.tab{width:1320px; 
+.tab{width:1200px; 
     height:1100px;
     margin: 0 auto;
     padding-top: 200px;
@@ -279,7 +279,7 @@ padding: 145px 0 0 48px;
 .tab_inner li{float: left; 
 padding:10px 10px 0 10px;
 }
-.tab_inner li img{width:420px;
+.tab_inner li img{width:480px;
     -webkit-transform: scale(1);
 	transform: scale(1);
 	-webkit-transition: .5s ease-in-out;
